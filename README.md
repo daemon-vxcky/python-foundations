@@ -10,36 +10,39 @@ and practical problem solving.
 
 ## Progress
 
-- [ ] Variables & expressions
-- [ ] Data types
-- [ ] Conditionals
-- [ ] Loops
-- [ ] Functions
-- [ ] Data structures
-- [ ] File handling
-- [ ] Exceptions
-- [ ] Modules
-- [ ] OOP basics
+* [x] Variables & expressions
+* [x] Conditionals
+* [x] Loops
+* [x] Functions
+* [x] Data structures
+* [ ] File handling
+* [ ] Exceptions
+* [ ] Modules
+* [ ] OOP basics
 
 ## Approach
 
-Learn → Practice → Build → Reflect
+Learn → Type → Solve → Break → Fix → Explain → Repeat
 
-The focus is on understanding concepts by writing code, solving small
-problems, making mistakes, and fixing them.
+The focus is on understanding concepts by writing code, solving problems,
+making mistakes, debugging them, and explaining what was learned.
 
 ## Repository Structure
 
 ```text
 python-foundations/
 ├── 01_variables/
-├── 02_data_types/
-├── 03_conditionals/
-├── 04_loops/
-├── 05_functions/
-├── 06_data_structures/
-├── 07_files/
-├── 08_exceptions/
-├── 09_modules/
-├── 10_oop/
+├── 02_conditionals/
+├── 03_loops/
+├── 04_functions/
+├── 05_data_structures/
 └── README.md
+```
+
+## Current Highlights
+
+* Built a student performance analyzer using conditionals and loops
+* Added input validation using `while` loops
+* Refactored repeated logic into functions
+* Used lists to store and analyze student performance data
+* Practiced aggregation using `max()`, `min()`, and `sum()`
