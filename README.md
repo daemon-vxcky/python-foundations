@@ -15,7 +15,7 @@ and practical problem solving.
 * [x] Loops
 * [x] Functions
 * [x] Data structures
-* [ ] File handling
+* [x] File handling
 * [ ] Exceptions
 * [ ] Modules
 * [ ] OOP basics
