@@ -1,0 +1,11 @@
+2026-11-17T10:15:01Z | INFO | service=auth-api | method=POST | path=/v1/login | status=200 | latency_ms=42
+2026-11-17T10:15:02Z | WARN | service=auth-api | method=POST | path=/v1/login | status=401 | latency_ms=18
+2026-11-17T10:15:03Z | ERROR | service=payment-gw | method=POST | path=/v1/charge | status=502 | latency_ms=1205
+
+2026-11-17T10:15:04Z | INFO | service=telemetry-ingest | method=POST | path=/v1/events | status=202 | latency_ms=11
+CORRUPTED_LINE_NO_DELIMITERS_HERE
+2026-11-17T10:15:05Z | ERROR | service=payment-gw | method=GET | path=/v1/status | status=NULL | latency_ms=500
+2026-11-17T10:15:06Z | INFO | service=auth-api | method=GET | path=/v1/profile | status=200 | latency_ms=29   
+2026-11-17T10:15:07Z | WARN | service=inventory | method=PUT | path=/v1/stock | missing_status_key | latency_ms=88
+2026-11-17T10:15:08Z | ERROR | service=payment-gw | method=POST | path=/v1/charge | status=500 | latency_ms=940
+2026-11-17T10:15:09Z | INFO | service=auth-api | method=POST | path=/v1/login | status=200 | latency_ms=35
